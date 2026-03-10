@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "Life is",
+  "base_artist": "MONGOL800",
+  "createdAt": "2026-03-10T10:04:35.412929Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Life is a Highway",
+      "artist": "Rascal Flatts",
+      "has_synced": true,
+      "path": "select/01_Life_is_a_Highway_Rascal_Flatts.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Life Is Cool",
+      "artist": "King Gizzard & The Lizard Wizard",
+      "has_synced": false,
+      "path": "select/02_Life_Is_Cool_King_Gizzard_&_The_Lizard_Wizard.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Life Is Cool",
+      "artist": "King Gizzard and the Lizard Wizard",
+      "has_synced": false,
+      "path": "select/03_Life_Is_Cool_King_Gizzard_and_the_Lizard_Wizard.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Life Is a Highway",
+      "artist": "Chris LeDoux",
+      "has_synced": true,
+      "path": "select/04_Life_Is_a_Highway_Chris_LeDoux.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Life Is A Highway (2008 Remaster)",
+      "artist": "Rascal Flatts",
+      "has_synced": true,
+      "path": "select/05_Life_Is_A_Highway_(2008_Remaster)_Rascal_Flatts.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Life Is A Honeymoon (Commentary)",
+      "artist": "Florida Georgia Line",
+      "has_synced": false,
+      "path": "select/06_Life_Is_A_Honeymoon_(Commentary)_Florida_Georgia_Line.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Life Is Good",
+      "artist": "Kenny Chesney",
+      "has_synced": true,
+      "path": "select/07_Life_Is_Good_Kenny_Chesney.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Life Is A Highway - From \"Cars\"",
+      "artist": "Rascal Flatts",
+      "has_synced": true,
+      "path": "select/08_Life_Is_A_Highway_-_From__Cars_Rascal_Flatts.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Life is a Highway (From \"Cars\")",
+      "artist": "Rascal Flatts",
+      "has_synced": true,
+      "path": "select/09_Life_is_a_Highway_(From__Cars_)_Rascal_Flatts.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Life is a Highway (From \"Cars\"/Soundtrack Version)",
+      "artist": "Rascal Flatts",
+      "has_synced": false,
+      "path": "select/10_Life_is_a_Highway_(From__Cars_Soundtrack_Version)_Rascal_Flatts.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "When Life Is Good Again",
+      "artist": "Dolly Parton",
+      "has_synced": true,
+      "path": "select/11_When_Life_Is_Good_Again_Dolly_Parton.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Life Is Like A Song",
+      "artist": "Wanting",
+      "has_synced": false,
+      "path": "select/12_Life_Is_Like_A_Song_Wanting.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Life Is Wonderful",
+      "artist": "Jason Mraz",
+      "has_synced": true,
+      "path": "select/13_Life_Is_Wonderful_Jason_Mraz.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "MY LIFE IS A PORNO",
+      "artist": "Die Antwoord feat. Smiley",
+      "has_synced": true,
+      "path": "select/14_MY_LIFE_IS_A_PORNO_Die_Antwoord_feat._Smiley.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "My Life Is A Porno",
+      "artist": "Die Antwoord",
+      "has_synced": true,
+      "path": "select/15_My_Life_Is_A_Porno_Die_Antwoord.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Life is Beautiful",
+      "artist": "Lil Peep",
+      "has_synced": true,
+      "path": "select/16_Life_is_Beautiful_Lil_Peep.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Life is",
+      "artist": "MONGOL 800",
+      "has_synced": false,
+      "path": "select/pl_01_Life_is_MONGOL_800.txt"
+    }
+  ]
+}
